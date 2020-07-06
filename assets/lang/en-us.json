@@ -1,0 +1,17 @@
+{
+  "hello": "howdy",
+  "day": {
+    "zero":"{} дней",
+    "one": "{} день",
+    "two": "{} дня",
+    "few": "{} дня",
+    "many": "{} дней",
+    "other": "{} дней"
+  },
+  "money": {
+    "zero": "You not have money",
+    "one": "You have {} dollar",
+    "many": "You have {} dollars",
+    "other": "You have {} DOLLARYDOOS"
+  }
+}
